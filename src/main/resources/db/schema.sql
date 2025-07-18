@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS mbti_results (
+    id SERIAL PRIMARY KEY,
+    user_id VARCHAR(100),
+    result_type VARCHAR(10),
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

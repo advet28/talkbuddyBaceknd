@@ -1,0 +1,6 @@
+model\Question$Option.class
+controller\Controller.class
+model\Question.class
+com\example\mbtiquiz\MBTIQuizApplication.class
+model\Answer.class
+model\MBTIResult.class
