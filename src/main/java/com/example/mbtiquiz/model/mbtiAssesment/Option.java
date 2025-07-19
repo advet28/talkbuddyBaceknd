@@ -1,4 +1,4 @@
-package com.example.mbtiquiz.model.getQuestions;
+package com.example.mbtiquiz.model.mbtiAssesment;
 
 import lombok.Data;
 

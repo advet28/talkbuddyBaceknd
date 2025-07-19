@@ -1,3 +1,4 @@
+/*
 package com.example.mbtiquiz.model;
 
 import jakarta.persistence.*;
@@ -17,3 +18,4 @@ public class MBTIResult {
     private LocalDateTime submittedAt = LocalDateTime.now();
 
 }
+*/

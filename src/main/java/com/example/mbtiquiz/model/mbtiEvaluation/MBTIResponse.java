@@ -1,4 +1,4 @@
-package com.example.mbtiquiz.model;
+package com.example.mbtiquiz.model.mbtiEvaluation;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

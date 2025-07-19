@@ -1,6 +1,6 @@
 package com.example.mbtiquiz.service.mbtiAssesment;
 
-import com.example.mbtiquiz.model.getQuestions.MBTIQuestion;
+import com.example.mbtiquiz.model.mbtiAssesment.MBTIQuestion;
 
 import java.util.List;
 

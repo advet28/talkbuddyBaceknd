@@ -2,7 +2,7 @@ package com.example.mbtiquiz.service.mbtiAssesment;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.example.mbtiquiz.model.getQuestions.MBTIQuestion;
+import com.example.mbtiquiz.model.mbtiAssesment.MBTIQuestion;
 import org.springframework.stereotype.Service;
 
 import java.io.InputStream;

@@ -1,8 +1,8 @@
 package com.example.mbtiquiz.service.mbtiEvaluation;
 
-import com.example.mbtiquiz.model.Answer;
-import com.example.mbtiquiz.model.MBTIRequest;
-import com.example.mbtiquiz.model.MBTIResponse;
+import com.example.mbtiquiz.model.mbtiEvaluation.Answer;
+import com.example.mbtiquiz.model.mbtiEvaluation.MBTIRequest;
+import com.example.mbtiquiz.model.mbtiEvaluation.MBTIResponse;
 import org.springframework.stereotype.Service;
 import java.util.*;
 

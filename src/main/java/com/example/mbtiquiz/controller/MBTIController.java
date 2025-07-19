@@ -1,8 +1,8 @@
 package com.example.mbtiquiz.controller;
 
-import com.example.mbtiquiz.model.MBTIRequest;
-import com.example.mbtiquiz.model.MBTIResponse;
-import com.example.mbtiquiz.model.getQuestions.MBTIQuestion;
+import com.example.mbtiquiz.model.mbtiEvaluation.MBTIRequest;
+import com.example.mbtiquiz.model.mbtiEvaluation.MBTIResponse;
+import com.example.mbtiquiz.model.mbtiAssesment.MBTIQuestion;
 
 
 
