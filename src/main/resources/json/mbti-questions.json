@@ -1,0 +1,1042 @@
+[
+  {
+    "id": 1,
+    "text": "At a party, you prefer to... (initial)",
+    "optionA": {
+      "text": "Talk to many people",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Stick with a few friends",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 2,
+    "text": "Do you feel more energized by... (initial)",
+    "optionA": {
+      "text": "Social interactions",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Alone time",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 3,
+    "text": "In a group, you tend to... (initial)",
+    "optionA": {
+      "text": "Lead discussions",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Listen more",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 4,
+    "text": "When meeting new people, you usually... (initial)",
+    "optionA": {
+      "text": "Start the conversation",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Wait for them to approach",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 5,
+    "text": "Do you prefer to work... (initial)",
+    "optionA": {
+      "text": "In a team",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Independently",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 6,
+    "text": "In social settings, you are more... (initial)",
+    "optionA": {
+      "text": "Talkative",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Reserved",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 7,
+    "text": "When talking, you... (initial)",
+    "optionA": {
+      "text": "Think out loud",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Think before speaking",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 8,
+    "text": "You usually... (initial)",
+    "optionA": {
+      "text": "Speak first",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Observe first",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 9,
+    "text": "You feel bored when... (initial)",
+    "optionA": {
+      "text": "Alone too long",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "In a loud crowd",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 10,
+    "text": "In conversations, you prefer... (initial)",
+    "optionA": {
+      "text": "Many short chats",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Few deep talks",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 11,
+    "text": "At a party, you prefer to... (again)",
+    "optionA": {
+      "text": "Talk to many people",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Stick with a few friends",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 12,
+    "text": "Do you feel more energized by... (again)",
+    "optionA": {
+      "text": "Social interactions",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Alone time",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 13,
+    "text": "In a group, you tend to... (again)",
+    "optionA": {
+      "text": "Lead discussions",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Listen more",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 14,
+    "text": "When meeting new people, you usually... (again)",
+    "optionA": {
+      "text": "Start the conversation",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Wait for them to approach",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 15,
+    "text": "Do you prefer to work... (again)",
+    "optionA": {
+      "text": "In a team",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Independently",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 16,
+    "text": "In social settings, you are more... (again)",
+    "optionA": {
+      "text": "Talkative",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Reserved",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 17,
+    "text": "When talking, you... (again)",
+    "optionA": {
+      "text": "Think out loud",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Think before speaking",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 18,
+    "text": "You usually... (again)",
+    "optionA": {
+      "text": "Speak first",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Observe first",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 19,
+    "text": "You feel bored when... (again)",
+    "optionA": {
+      "text": "Alone too long",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "In a loud crowd",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 20,
+    "text": "In conversations, you prefer... (again)",
+    "optionA": {
+      "text": "Many short chats",
+      "trait": "E"
+    },
+    "optionB": {
+      "text": "Few deep talks",
+      "trait": "I"
+    },
+    "dichotomy": "EI"
+  },
+  {
+    "id": 21,
+    "text": "You are more interested in... (initial)",
+    "optionA": {
+      "text": "Facts and details",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Ideas and concepts",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 22,
+    "text": "When learning, you prefer... (initial)",
+    "optionA": {
+      "text": "Concrete examples",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Abstract theories",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 23,
+    "text": "You are more drawn to... (initial)",
+    "optionA": {
+      "text": "Realism",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Imagination",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 24,
+    "text": "You rely more on... (initial)",
+    "optionA": {
+      "text": "Past experiences",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Future possibilities",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 25,
+    "text": "Do you trust more... (initial)",
+    "optionA": {
+      "text": "What is real",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Your hunches",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 26,
+    "text": "You enjoy stories that are... (initial)",
+    "optionA": {
+      "text": "Realistic",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Fantasy-based",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 27,
+    "text": "In descriptions, you prefer... (initial)",
+    "optionA": {
+      "text": "Literal",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Figurative",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 28,
+    "text": "When planning, you look at... (initial)",
+    "optionA": {
+      "text": "Steps and process",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Big picture",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 29,
+    "text": "When explaining, you are... (initial)",
+    "optionA": {
+      "text": "Precise",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Conceptual",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 30,
+    "text": "You remember things by... (initial)",
+    "optionA": {
+      "text": "What you saw",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "What it meant",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 31,
+    "text": "You are more interested in... (again)",
+    "optionA": {
+      "text": "Facts and details",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Ideas and concepts",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 32,
+    "text": "When learning, you prefer... (again)",
+    "optionA": {
+      "text": "Concrete examples",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Abstract theories",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 33,
+    "text": "You are more drawn to... (again)",
+    "optionA": {
+      "text": "Realism",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Imagination",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 34,
+    "text": "You rely more on... (again)",
+    "optionA": {
+      "text": "Past experiences",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Future possibilities",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 35,
+    "text": "Do you trust more... (again)",
+    "optionA": {
+      "text": "What is real",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Your hunches",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 36,
+    "text": "You enjoy stories that are... (again)",
+    "optionA": {
+      "text": "Realistic",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Fantasy-based",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 37,
+    "text": "In descriptions, you prefer... (again)",
+    "optionA": {
+      "text": "Literal",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Figurative",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 38,
+    "text": "When planning, you look at... (again)",
+    "optionA": {
+      "text": "Steps and process",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Big picture",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 39,
+    "text": "When explaining, you are... (again)",
+    "optionA": {
+      "text": "Precise",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "Conceptual",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 40,
+    "text": "You remember things by... (again)",
+    "optionA": {
+      "text": "What you saw",
+      "trait": "S"
+    },
+    "optionB": {
+      "text": "What it meant",
+      "trait": "N"
+    },
+    "dichotomy": "SN"
+  },
+  {
+    "id": 41,
+    "text": "When making decisions, you base it on... (initial)",
+    "optionA": {
+      "text": "Logic and rules",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Feelings and values",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 42,
+    "text": "You value more... (initial)",
+    "optionA": {
+      "text": "Fairness",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Compassion",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 43,
+    "text": "In conflict, you tend to be... (initial)",
+    "optionA": {
+      "text": "Objective",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Sensitive",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 44,
+    "text": "You believe it\u2019s worse to be... (initial)",
+    "optionA": {
+      "text": "Unjust",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Unkind",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 45,
+    "text": "You prefer feedback that is... (initial)",
+    "optionA": {
+      "text": "Direct",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Supportive",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 46,
+    "text": "You are more likely to... (initial)",
+    "optionA": {
+      "text": "Analyze",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Empathize",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 47,
+    "text": "When criticized, you feel... (initial)",
+    "optionA": {
+      "text": "Challenged",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Hurt",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 48,
+    "text": "You find it easier to... (initial)",
+    "optionA": {
+      "text": "Solve problems",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Understand people",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 49,
+    "text": "You prefer to be seen as... (initial)",
+    "optionA": {
+      "text": "Competent",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Caring",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 50,
+    "text": "You decide with your... (initial)",
+    "optionA": {
+      "text": "Head",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Heart",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 51,
+    "text": "When making decisions, you base it on... (again)",
+    "optionA": {
+      "text": "Logic and rules",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Feelings and values",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 52,
+    "text": "You value more... (again)",
+    "optionA": {
+      "text": "Fairness",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Compassion",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 53,
+    "text": "In conflict, you tend to be... (again)",
+    "optionA": {
+      "text": "Objective",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Sensitive",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 54,
+    "text": "You believe it\u2019s worse to be... (again)",
+    "optionA": {
+      "text": "Unjust",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Unkind",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 55,
+    "text": "You prefer feedback that is... (again)",
+    "optionA": {
+      "text": "Direct",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Supportive",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 56,
+    "text": "You are more likely to... (again)",
+    "optionA": {
+      "text": "Analyze",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Empathize",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 57,
+    "text": "When criticized, you feel... (again)",
+    "optionA": {
+      "text": "Challenged",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Hurt",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 58,
+    "text": "You find it easier to... (again)",
+    "optionA": {
+      "text": "Solve problems",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Understand people",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 59,
+    "text": "You prefer to be seen as... (again)",
+    "optionA": {
+      "text": "Competent",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Caring",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 60,
+    "text": "You decide with your... (again)",
+    "optionA": {
+      "text": "Head",
+      "trait": "T"
+    },
+    "optionB": {
+      "text": "Heart",
+      "trait": "F"
+    },
+    "dichotomy": "TF"
+  },
+  {
+    "id": 61,
+    "text": "You prefer your life to be... (initial)",
+    "optionA": {
+      "text": "Organized",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Spontaneous",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 62,
+    "text": "When traveling, you like to... (initial)",
+    "optionA": {
+      "text": "Plan ahead",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Wing it",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 63,
+    "text": "Deadlines are... (initial)",
+    "optionA": {
+      "text": "Important",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Flexible",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 64,
+    "text": "You feel better when... (initial)",
+    "optionA": {
+      "text": "Things are decided",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Options are open",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 65,
+    "text": "You like to start work... (initial)",
+    "optionA": {
+      "text": "Early",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Last minute",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 66,
+    "text": "Your workspace is usually... (initial)",
+    "optionA": {
+      "text": "Tidy",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Messy",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 67,
+    "text": "When solving problems, you prefer... (initial)",
+    "optionA": {
+      "text": "Structure",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Improvisation",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 68,
+    "text": "You tend to be more... (initial)",
+    "optionA": {
+      "text": "Decisive",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Adaptable",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 69,
+    "text": "You value... (initial)",
+    "optionA": {
+      "text": "Order",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Freedom",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 70,
+    "text": "You\u2019re happier with... (initial)",
+    "optionA": {
+      "text": "Clear goals",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Surprises",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 71,
+    "text": "You prefer your life to be... (again)",
+    "optionA": {
+      "text": "Organized",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Spontaneous",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 72,
+    "text": "When traveling, you like to... (again)",
+    "optionA": {
+      "text": "Plan ahead",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Wing it",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 73,
+    "text": "Deadlines are... (again)",
+    "optionA": {
+      "text": "Important",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Flexible",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 74,
+    "text": "You feel better when... (again)",
+    "optionA": {
+      "text": "Things are decided",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Options are open",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 75,
+    "text": "You like to start work... (again)",
+    "optionA": {
+      "text": "Early",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Last minute",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 76,
+    "text": "Your workspace is usually... (again)",
+    "optionA": {
+      "text": "Tidy",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Messy",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 77,
+    "text": "When solving problems, you prefer... (again)",
+    "optionA": {
+      "text": "Structure",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Improvisation",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 78,
+    "text": "You tend to be more... (again)",
+    "optionA": {
+      "text": "Decisive",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Adaptable",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 79,
+    "text": "You value... (again)",
+    "optionA": {
+      "text": "Order",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Freedom",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  },
+  {
+    "id": 80,
+    "text": "You\u2019re happier with... (again)",
+    "optionA": {
+      "text": "Clear goals",
+      "trait": "J"
+    },
+    "optionB": {
+      "text": "Surprises",
+      "trait": "P"
+    },
+    "dichotomy": "JP"
+  }
+]

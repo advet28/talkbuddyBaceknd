@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Answer {
-    private int questionId;
-    private String trait; // E, I, S, N, T, F, J, P
+public class MBTIResponse {
+    private String mbtiType;
+    private String explanation; // Optional: short description
 }
