@@ -5,10 +5,13 @@ import com.example.mbtiquiz.model.mbtiEvaluation.MBTIResponse;
 import com.example.mbtiquiz.model.mbtiAssesment.MBTIQuestion;
 
 
-
+import com.example.mbtiquiz.model.sendOtp.SendOtpRequest;
+import com.example.mbtiquiz.model.sendOtp.SendOtpResponse;
 import com.example.mbtiquiz.service.mbtiAssesment.MbtiAssessmentService;
 
 import com.example.mbtiquiz.service.mbtiEvaluation.MbtiEvaluationService;
+import com.example.mbtiquiz.service.sendOtp.OtpService;
+import com.example.mbtiquiz.service.sendOtp.OtpServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -25,6 +28,9 @@ public class MBTIController {
     @Autowired
     private MbtiEvaluationService mbtiEvaluationService;
 
+    @Autowired
+    private OtpService otpService;
+
     // Endpoint 1 - Fetch MBTI Questions
     @GetMapping("/questions")
     public List<MBTIQuestion> getQuestions() {
@@ -36,5 +42,11 @@ public class MBTIController {
     public ResponseEntity<MBTIResponse> getMBTIResult(@RequestBody MBTIRequest request) {
         MBTIResponse result = mbtiEvaluationService.calculateMBTIType(request);
         return ResponseEntity.ok(result);
+    }
+
+    @PostMapping("/verifyMail")
+    public ResponseEntity<SendOtpResponse> sendOtp(@RequestBody SendOtpRequest request) {
+        SendOtpResponse response = otpService.sendOtp(request);
+        return ResponseEntity.ok(response);
     }
 }
