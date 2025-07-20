@@ -7,11 +7,13 @@ import com.example.mbtiquiz.model.mbtiAssesment.MBTIQuestion;
 
 import com.example.mbtiquiz.model.sendOtp.SendOtpRequest;
 import com.example.mbtiquiz.model.sendOtp.SendOtpResponse;
+import com.example.mbtiquiz.model.signup.SignupRequest;
+import com.example.mbtiquiz.model.signup.SignupResponse;
 import com.example.mbtiquiz.service.mbtiAssesment.MbtiAssessmentService;
 
 import com.example.mbtiquiz.service.mbtiEvaluation.MbtiEvaluationService;
 import com.example.mbtiquiz.service.sendOtp.OtpService;
-import com.example.mbtiquiz.service.sendOtp.OtpServiceImpl;
+import com.example.mbtiquiz.service.signup.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -31,6 +33,9 @@ public class MBTIController {
     @Autowired
     private OtpService otpService;
 
+    @Autowired
+    private UserService userService;
+
     // Endpoint 1 - Fetch MBTI Questions
     @GetMapping("/questions")
     public List<MBTIQuestion> getQuestions() {
@@ -48,5 +53,11 @@ public class MBTIController {
     public ResponseEntity<SendOtpResponse> sendOtp(@RequestBody SendOtpRequest request) {
         SendOtpResponse response = otpService.sendOtp(request);
         return ResponseEntity.ok(response);
+    }
+
+    @PostMapping("/signup")
+    public ResponseEntity<SignupResponse> registerUser(@RequestBody SignupRequest signUpRequest) {
+        SignupResponse savedUser = userService.registerUser(signUpRequest);
+        return ResponseEntity.ok(savedUser);
     }
 }
